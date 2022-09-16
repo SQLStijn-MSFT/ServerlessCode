@@ -3,7 +3,7 @@
 <h1>Variables and Usage</h1>
 
 <h2>Required Variables </h2>
-@Storageaccount = your storage accountname /n
+@Storageaccount = your storage accountname <br>
 @Filepath = the full filepath you want to embed in your query/view
 @Format = the format of the file you are using (Parquet/CSV/Delta)
 
